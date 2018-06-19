@@ -1,0 +1,194 @@
+     Released – February 11, 2015
+
+      The Question Pool Committee has withdrawn questions G1E10 and G5B08 from the 2015 General Class Pool files
+                         previously released on January 19, 2015 with errata, originally released December 15, 2014.
+
+               These 2 questions are marked as deleted and the remaining questions in those sections were not renumbered.
+                              2015-2019 Element 3 Question Pool Question Count as of 2-11-2015 - Total Questions 462
+
+                               Errata to General Class Question Pool Files
+                                    Second Release – January 19, 2015
+                    Errata to General Class Question Pool Files
+                           First Release December 15, 2014
+
+
+                                                   Updated Errata as of February 11, 2015
+Correction to Syllabus: G7B left out. Corrected adding G7B - Digital circuits; amplifiers and oscillators
+G1A13 - Changed wording in question... "30-meter and 60-meter bands"...
+G1B08 - Removed period from the end of answer B.
+G1D01 - Replaced all instances of "a" to "an" in the question and answer B and D.
+Answer B - added missing word “that”
+B. Anyone who held an FCC issued amateur radio license that has been....
+Answer C. Changed to ‘Any person “who” previously held...
+Corrected capitalized word Issued in D.
+D. Only persons who once held an FCC issued Novice, Technician, or Technician Plus license
+G1E03 - Answer C.  Corrected the word part to party.
+G1E10 - DELETED
+G1E13 - Correction. 1.25 meter changed to 1.25-meter
+G2C06 - Removed period at the end of answer D.
+G2E05 - Question was missing. Moved question G2E15 to be G2E05 leaving 14 questions in G2E sub-section.
+G2E09 - Removed period at the end of answer D.
+G3C11 - Answer D. corrected light-hand to right-hand
+G5B08 - Answer D. 338.4 changed to 339.4 volts
+G5B08 - DELETED
+G8B05 - Question incorrect as stated. Removed WINMOR from question
+G9A05 - Answer B. Corrected to Attenuation increases. Answer D. Corrected misspelling of Attenuation.
+~~ End of Errata~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               2015-2019 General Class – FCC Element 3 Syllabus - Effective July 1, 2015
+
+
+SUBELEMENT G1   COMMISSION'S RULES [5 Exam Questions-5 Groups] 60 Questions
+
+G1A - General Class control operator frequency privileges; primary and secondary allocations
+G1B - Antenna structure limitations; good engineering and good amateur practice; beacon operation; prohibited transmissions; retransmitting radio signals
+G1C - Transmitter power regulations; data emission standards
+G1D - Volunteer Examiners and Volunteer Examiner Coordinators; temporary identification
+G1E – Control categories; repeater regulations; harmful interference; third party rules; ITU regions; automatically controlled digital station
+
+
+SUBELEMENT G2   OPERATING PROCEDURES [5 Exam Questions-5 Groups] 59 Questions
+
+G2A - Phone operating procedures; USB/LSB conventions; procedural signals; breaking into a contact; VOX operation
+G2B - Operating courtesy; band plans; emergencies, including drills and emergency communications
+G2C - CW operating procedures and procedural signals; Q signals and common abbreviations; full break in
+G2D - Amateur Auxiliary; minimizing interference; HF operations
+G2E - Digital operating; procedures, procedural signals and common abbreviations
+
+
+SUBELEMENT G3   RADIO WAVE PROPAGATION [3 Exam Questions-3 Groups] 41 Questions
+
+G3A - Sunspots and solar radiation; ionospheric disturbances; propagation forecasting and indices
+G3B - Maximum Usable Frequency; Lowest Usable Frequency; propagation
+G3C - Ionospheric layers; critical angle and frequency; HF scatter; Near-Vertical Incidence Skywave
+
+
+SUBELEMENT G4 AMATEUR RADIO PRACTICES [5 Exam Questions-5 groups] 65 Questions
+
+G4A – Station Operation and set up
+G4B - Test and monitoring equipment; two-tone test
+G4C - Interference with consumer electronics; grounding; DSP
+G4D - Speech processors; S meters; sideband operation near band edges
+G4E - HF mobile radio installations; emergency and battery powered operation
+
+
+SUBELEMENT G5   ELECTRICAL PRINCIPLES [3 Exam Questions–3 Groups] 44 Questions
+
+G5A - Reactance; inductance; capacitance; impedance; impedance matching
+G5B - The Decibel; current and voltage dividers; electrical power calculations; sine wave root-mean-square (RMS) values; PEP calculations
+G5C – Resistors, capacitors, and inductors in series and parallel; transformers
+
+
+
+SUBELEMENT G6   CIRCUIT COMPONENTS [2 Exam Questions–2 Groups] 37 Questions
+
+G6A – Resistors; Capacitors; Inductors; Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
+G6B - Analog and digital integrated circuits (ICs); microprocessors; memory; I/O devices; microwave ICs
+(MMICs ); display devices
+
+SUBELEMENT G7   PRACTICAL CIRCUITS [3 Exam Questions–3 Groups] 38 Questions
+
+G7A Power supplies; and schematic symbols
+G7B - Digital circuits; amplifiers and oscillators
+G7C - Receivers and transmitters; filters, oscillators
+
+SUBELEMENT G8   SIGNALS AND EMISSIONS [3 Exam Questions–3 Groups] 33 Questions
+
+G8A - Carriers and modulation; AM; FM; single sideband; modulation envelope; digital modulation; over modulation
+G8B - Frequency mixing; multiplication; bandwidths of various modes; deviation
+G8C – Digital emission modes
+
+SUBELEMENT G9   ANTENNAS AND FEEDLINES [4 Exam Questions–4 Groups] 58 Questions
+
+G9A - Antenna feed lines; characteristic impedance, and attenuation; SWR calculation, measurement and effects; matching networks
+G9B - Basic antennas
+G9C - Directional antennas
+G9D - Specialized antennas
+
+SUBELEMENT G0   ELECTRICAL AND RF SAFETY [2 Exam Questions–2 Groups] 27 Questions
+
+G0A - RF safety principles, rules and guidelines; routine station evaluation
+G0B - Safety in the ham shack; electrical shock and treatment, safety grounding, fusing, interlocks, wiring, antenna and tower safety
+~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         NCVEC Question Pool Committee Public Domain Release of December 15, 2014
+                        WITH REVISIONS PER ERRATAS of January 19, 2015 and February 11, 2015
+
+
+                         2015-2019 General Class – FCC Element 3 Question Pool - Effective July 1, 2015
+
+
+SUBELEMENT G1 - COMMISSION'S RULES [5 Exam Questions - 5 Groups]
+
+G1A - General Class control operator frequency privileges; primary and secondary allocations
+
+
+G1A01 (C) [97.301(d)]
+On which of the following bands is a General Class license holder granted all amateur frequency privileges?
+A. 60, 20, 17, and 12 meters
+B. 160, 80, 40, and 10 meters
+C. 160, 60, 30, 17, 12, and 10 meters
+D. 160, 30, 17, 15, 12, and 10 meters
+~~
+
+
+G1A02 (B) [97.305]
+On which of the following bands is phone operation prohibited?
+A. 160 meters
+B. 30 meters
+C. 17 meters
+D. 12 meters
+~~
+
+extra garbage to follow, file should only contain two valid questions.
+
+     Released – February 11, 2015
+
+      The Question Pool Committee has withdrawn questions G1E10 and G5B08 from the 2015 General Class Pool files
+                         previously released on January 19, 2015 with errata, originally released December 15, 2014.
+
+               These 2 questions are marked as deleted and the remaining questions in those sections were not renumbered.
+                              2015-2019 Element 3 Question Pool Question Count as of 2-11-2015 - Total Questions 462
+
+                               Errata to General Class Question Pool Files
+                                    Second Release – January 19, 2015
+                    Errata to General Class Question Pool Files
+                           First Release December 15, 2014
